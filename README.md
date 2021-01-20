@@ -22,3 +22,8 @@
 <img src="https://github.com/izzoluca/Data-Privacy-Google-Home-Mini-Forensic-analysis/blob/main/Screenshots/Autopsy.png" alt="Autopsy" >
 <img src="https://github.com/izzoluca/Data-Privacy-Google-Home-Mini-Forensic-analysis/blob/main/Screenshots/Wireshark.png" alt="Wireshark" >
 <img src="https://github.com/izzoluca/Data-Privacy-Google-Home-Mini-Forensic-analysis/blob/main/Screenshots/Burbsuite.png" alt="Burbsuite" >
+<br>
+<br>
+<br>
+<q> Izzo Luca : Cybersecurity Student </q>
+
