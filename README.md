@@ -9,6 +9,8 @@
 
 <q> Arguing that you don't care about the right to privacy because you have nothing to hide, is no different than saying you don't care about free speech because you have nothing to say.                                                                                                      - Edward Snowden</p>
 
+<img src="https://github.com/izzoluca/Data-Privacy-Google-Home-Mini-Forensic-analysis/blob/main/Screenshots/DFvsPrivacy.png" alt="DFvsPrivacy" >
+
 <h2> II part: Forensic study of a Google Home Mini  </h2>
 <p> We are in 2020 and many speakers with artificial intelligence (AI) have recently arrived on the market. Starting with the Amazon Echo, many companies are producing their own speaker technologies. Due to the limitations of technology, most speakers have similar functions, but the way of handling the data of each speaker is different. In the case of Amazon Echo, the cloud API is open to any developer to develop their own API. The Amazon Echo has been around for some time and a lot of research has been done on it. However, not much research has been done on Google Home Mini analytics for digital surveys. In this presentation, I'll show you some initial research on Google Home Mini data storage and security methods. Google Home Mini is a scaled-down version of Google Home that launched in October 2017 and launched in September 2018 in Korea. The operating system supports Android 5.0 or later, iOS 9.1 or later. To use Google Home Mini, the user needs to sync it with the Google Home app, and the Google assistant will work when users sign up and are Wi-Fi certified in the user app. </p>
 
